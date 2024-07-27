@@ -1,0 +1,7 @@
+
+wget  -qO- https://repo.vivaldi.com/archive/linux_signing_key.pub | sudo apt-key add -
+
+
+
+
+
